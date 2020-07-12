@@ -1,3 +1,4 @@
+# Primera Rutina Kmeans funcionando
 print("Este archivo fue creado en Rstudio")
 print("Ahora lo vicularemos con GitHub")
 print("Incorpraremos la primera Rutina")
@@ -69,3 +70,5 @@ clusplot(dataset[,1:2],
          main = paste('Clusters de Socios'),
          xlab = 'Fecha Ingreso',
          ylab = 'Edad')
+
+# Fin de la rutina

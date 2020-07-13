@@ -1,4 +1,5 @@
 # Primera Rutina Kmeans funcionando
+# prueba con Github
 print("Este archivo fue creado en Rstudio")
 print("Ahora lo vicularemos con GitHub")
 print("Incorpraremos la primera Rutina")
